@@ -81,13 +81,14 @@
    __例如：__
 
    ```console
-   $ ./navicat-patcher /Applications/Navicat\ Premium.app/
+   $ cd /bin
+   $ ./navicat-patcher /Applications/Navicat\ Premium.app/Contents/MacOS/Navicat\ Premium 
    ```
 
    __Navicat Premium For Mac 12.1.24 简体中文版__ 已通过测试。下面将是一份样例输出：
 
    ```console
-   $ ./navicat-patcher /Applications/Navicat\ Premium.app/
+   $ ./navicat-patcher /Applications/Navicat\ Premium.app/Contents/MacOS/Navicat\ Premium
    ***************************************************
    *       Navicat Patcher by @DoubleLabyrinth       *
    *                  Version: 4.0                   *
